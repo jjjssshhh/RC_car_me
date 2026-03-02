@@ -1,0 +1,9 @@
+../Core/Src/rcmotor.c:60:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/rcmotor.c:130:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/rcmotor.c:213:6:PID_move	40	static
+../Core/Src/rcmotor.c:318:6:auto_move	16	static
+../Core/Src/rcmotor.c:453:6:Only_recdord	16	static
+../Core/Src/rcmotor.c:486:6:Save_driving_recdord	16	static
+../Core/Src/rcmotor.c:571:6:PWM_Control	16	static
+../Core/Src/rcmotor.c:619:6:CCR_Control	24	static
+../Core/Src/rcmotor.c:670:6:ACC_Control	24	static

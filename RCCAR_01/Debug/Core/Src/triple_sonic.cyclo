@@ -1,0 +1,4 @@
+../Core/Src/triple_sonic.c:23:6:ult_init	2
+../Core/Src/triple_sonic.c:36:6:HCSCR04_TRG	5
+../Core/Src/triple_sonic.c:98:6:machine	16
+../Core/Src/triple_sonic.c:140:6:HAL_TIM_IC_CaptureCallback	7
